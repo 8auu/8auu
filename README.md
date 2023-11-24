@@ -1,2 +1,2 @@
-![8au's GitHub stats](https://github-readme-stats.vercel.app/api?username=8auu&count_private=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8auu&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/8auu)
+![8au's GitHub stats](https://readme-stats-nine-roan.vercel.app/api?username=8auu&count_private=true&show_icons=true&theme=radical)
+[![Top Langs](https://readme-stats-nine-roan.vercel.app/api/top-langs/?username=8auu&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/8auu)
